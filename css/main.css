@@ -1,0 +1,100 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	font-family: "slabo";
+}
+nav{
+	height: 70px;
+	width: 100%;
+	background-color: white;
+	padding: 25px 450px;
+}
+a{
+	margin-left: 60px;
+	text-decoration: none;
+	color: black;
+}
+.superior{
+	background-image: url("../images/background.jpg");
+	width: 100%;
+	height: 500px;
+	text-align: center;
+}
+.logo{
+	width: 70px;
+	height: 70px;
+	margin-top: 150px;
+}
+h1{
+	color: white;
+	font-size: 50px;
+}
+h2{
+	color: white;
+	font-size: 35px;
+}
+.central{
+	background-image: url("../images/tile1.png");
+	background-repeat: repeat;
+	height: 450px;
+}
+.profile{
+	height: 250px;
+	width: 250px;
+	border: 1px solid black;
+	margin-top: 150px;
+	padding: 5px;
+}
+.texto{
+	margin-top: 100px;
+}
+h3{
+	color:#8F03E3;
+	margin-left: 220px;
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.inferior{
+	margin-top: 40px;
+}
+.gato{
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	border: 2px solid #8F03E3;
+	padding: 5px;
+}
+.gato1{
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+}
+.inferior h3{
+	margin-left: 450px;
+}
+h4{
+	margin-left: 410px;
+	color:#8F03E3;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+footer{
+	background-image: url("../images/tile2.png");
+	background-repeat: repeat;
+	height: 300px;
+}
+.redes{
+	width: 120px;
+	height: 120px;
+	margin-left: 20px;
+}
+footer h3{
+	margin-left: 630px;
+	margin-top: 50px;
+	padding-top: 40px;
+}
+.redes1{
+	margin-left: 460px;
+	margin-top: 50px;
+}
